@@ -2,7 +2,7 @@
 Java - Cliente WS-RestFull que provee funcionalidades asociadas a la firma electrónica del lado del servidor.
 Este proyecto sólo debe ser usado como marco de referencia para la implementación de los proyectos kawi y ucaima.
 
-Copyright (C) 2010
+## Copyright (C) 2010
 Ing. Felix D. Lopez M. - flex.developments@gmail.com
 
 Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2010-2014 por:
