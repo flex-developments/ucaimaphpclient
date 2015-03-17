@@ -3,12 +3,12 @@
  * ucaimaPHPClient
  *
  * Copyright (C) 2009
- * Ing. Felix D. Lopez M. - flex.developments@gmail.com
+ * Ing. Felix D. Lopez M. - flex.developments en gmail
  * 
  * Desarrollo proseguido bajo relación laboral con la
  * Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) por:
- * Ing. Felix D. Lopez M. - flex.developments@gmail.com | flopez@suscerte.gob.ve
- * Ing. Yessica De Ascencao - yessicadeascencao@gmail.com | ydeascencao@suscerte.gob.ve
+ * Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
+ * Ing. Yessica De Ascencao - yessicadeascencao en gmail | ydeascencao en suscerte gob ve
  *
  * Este programa es software libre; Usted puede usarlo bajo los terminos de la
  * licencia de software GPL version 2.0 de la Free Software Foundation.
@@ -26,7 +26,7 @@ include_once('KawiPackage/KawiPack.class.php');
 include_once('RestClient.class.php');
 
 //Clase Abstracta que permite obtener instancia de los diferentes clientes de WS
-//Creada por Ing. Félix López - flex.developments@gmail.com
+//Creada por Ing. Félix López - flex.developments en gmail
 class UcaimaClient{
     protected $package;
     protected $ws_url;
