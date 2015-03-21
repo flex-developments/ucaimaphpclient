@@ -8,7 +8,7 @@ Este proyecto sólo debe ser usado como marco de referencia para la implementaci
 ## Copyright (C) 2010 Ing. Felix D. Lopez M.
  * Ing. Felix D. Lopez M. - flex.developments en gmail
 
-Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2010-2014 por:
+Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2010-2014 a través de:
  * Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
  * Ing. Yessica De Ascencao - yessicadeascencao en gmail | ydeascencao en suscerte gob ve
 
